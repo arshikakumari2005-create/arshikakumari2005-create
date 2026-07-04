@@ -1,20 +1,23 @@
 # Hi, I'm Arshika Kumari 👋
 
-# 🌱 Currently Learning Python
-# 🤖 Future AI & Machine Learning Engineer
-# 💻 B.Tech Student
-# 📚 Learning Python, Git & GitHub
-# 🚀 Building Projects Every Day
+🌱 Currently Learning Python
+🤖 Future AI & Machine Learning Engineer
+💻 B.Tech Student
+📚 Learning Python, Git & GitHub
+🚀 Building Projects Every Day
 
-# ---
+---
 
-## 🛠️ Skills
+ ## 🛠️ Skills
 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github)
+![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel)
 
 ---
 
@@ -22,7 +25,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arshikakumari2005&show_icons=true&theme=default)
 
-# ---
+---
 
 ## 🎯 Goals
 - 📌 Build real-world projects
@@ -30,13 +33,13 @@
 - 📌 Learn AI & ML deeply
 - 📌 Improve coding skills daily
 
-# ---
+---
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/arshikakumari2005
 - LinkedIn: https://www.linkedin.com/in/arshika-kumari-3504b332a?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - Instagram: https://www.instagram.com/_arshika_choudhary_?igsh=MXYzdjBwMzZvMDdpaA==
 
-# ---
+---
 
 # ⭐ Thanks for visiting my profile!
