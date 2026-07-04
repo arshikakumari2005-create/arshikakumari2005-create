@@ -28,18 +28,24 @@
 ---
 
 ## 🎯 Goals
-- 📌 Build real-world projects
-- 📌 Become Data Analyst
-- 📌 Learn AI & ML deeply
-- 📌 Improve coding skills daily
+
+- Become an AI & Machine Learning Engineer
+- Master Python for AI
+- Build Real-World AI Projects
+- Contribute to Open Source
 
 ---
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/arshikakumari2005
-- LinkedIn: https://www.linkedin.com/in/arshika-kumari-3504b332a?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- Instagram: https://www.instagram.com/_arshika_choudhary_?igsh=MXYzdjBwMzZvMDdpaA==
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/arshika-kumari-3504b332a?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+</a>
 
+<a href="https://www.instagram.com/https://www.instagram.com/_arshika_choudhary_?igsh=MXYzdjBwMzZvMDdpaA==">
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40"/>
+</a>
+ 
 ---
 
-# ⭐ Thanks for visiting my profile!
+ ⭐ Thanks for visiting my profile!
