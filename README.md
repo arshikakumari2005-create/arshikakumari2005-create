@@ -22,7 +22,7 @@
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arshikakumari2005&show_icons=true&theme=tokyonight) 
-![GitHub Streak](https://streak-stats.demolab.com?user=arshikakumari2005)
+![GitHub Streak](https://streak-stats.demolab.com?user=)
 ![Profile Views](https://komarev.com/ghpvc/?username=arshikakumari2005) 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=arshikakumari2005)
