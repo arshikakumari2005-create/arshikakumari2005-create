@@ -20,7 +20,7 @@
 ![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel)
 
 ---
-
+## 📊 GitHub Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=arshikakumari2005)
 
 ---
